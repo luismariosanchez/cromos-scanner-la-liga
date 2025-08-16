@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:cromos_scanner_laliga/app/entities/count.dart';
 import 'package:cromos_scanner_laliga/app/entities/sticker.dart';
 import 'package:cromos_scanner_laliga/app/enums/count_type.dart';
@@ -21,7 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   final int crossAxisCount = 2;
 
-  Sticker? lastStickerAdded = Sticker(id: 1, name: 'Lamine yamal', description: '', imageUrl: '', price: '');
+  Sticker? lastStickerAdded = Sticker(id: 1, name: 'Lamine yamal', club: '', imagePath: '', cardNumber: '', rarity: '');
 
   @override
   Widget build(BuildContext context) {
@@ -61,14 +59,18 @@ class _HomeScreenState extends State<HomeScreen> {
                 title: 'My Collection',
                 description: 'View your complete sticket collection',
                 icon: Icons.folder_open,
-                onTap: (){},
+                onTap: (){
+                  Navigator.of(context).pushNamed('/collection');
+                },
               ),
               ActionCardWidget(
 
                 title: 'Missing Stickers',
                 description: 'See which stickers you still need',
                 icon: Icons.error_outline,
-                onTap: (){},
+                onTap: (){
+                  Navigator.of(context).pushNamed('/missing');
+                },
               ),
             ],
           ),
