@@ -7,7 +7,9 @@ class Sticker {
   final String imagePath;
   final String cardNumber;
   final String rarity;
-  final StatusSticker status;
+
+  StatusSticker status;
+
   Sticker({
     required this.id,
     required this.name,
@@ -15,6 +17,30 @@ class Sticker {
     required this.imagePath,
     required this.cardNumber,
     required this.rarity,
-    this.status = StatusSticker.missing
+    this.status = StatusSticker.missing,
   });
+
+  factory Sticker.fromJson(Map<String, dynamic> json) {
+    return Sticker(
+      id: json["id"],
+      name: json["name"],
+      club: json["club"],
+      imagePath: json["imagePath"],
+      cardNumber: json["cardNumber"],
+      rarity: json["rarity"],
+      status: StatusSticker.values.firstWhere((element) => element.name == json["status"]),
+    );
+  }
+
+  Map<String, dynamic> toJson() {
+    return {
+      "id": id,
+      "name": name,
+      "club": club,
+      "imagePath": imagePath,
+      "cardNumber": cardNumber,
+      "rarity": rarity,
+      "status": status.name,
+    };
+  }
 }

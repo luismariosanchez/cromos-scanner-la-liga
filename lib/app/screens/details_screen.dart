@@ -1,4 +1,5 @@
 import 'package:cromos_scanner_laliga/app/core/utils/get_color_gradient_by_club.dart';
+import 'package:cromos_scanner_laliga/app/data/stickers_datasource.dart';
 import 'package:cromos_scanner_laliga/app/entities/sticker.dart';
 import 'package:cromos_scanner_laliga/app/enums/status_sticker.dart';
 import 'package:flutter/material.dart';
@@ -12,24 +13,48 @@ class DetailsScreen extends StatefulWidget {
 }
 
 class _DetailsScreenState extends State<DetailsScreen> {
-  Sticker? sticker = Sticker(
-    id: 1,
-    name: 'Lamine yamal',
-    club: 'FC Barcelona',
-    imagePath:
-        'lib/app/assets/stickers_image/Lamine Yamal - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp',
-    cardNumber: '#002',
-    rarity: 'Normal',
-  );
+
+  bool isLoading = true;
+  bool error = false;
+  late Sticker sticker;
+
+  Future<void> setSticker() async {
+    try{
+      sticker = await StickersDataSource().getSticker(widget.id);
+
+    }catch(ae) {
+      error = true;
+    } finally {
+      isLoading = false;
+      setState(() {
+
+      });
+    }
+  }
+
+  @override
+  void initState() {
+    setSticker();
+    super.initState();
+  }
+
+
   @override
   Widget build(BuildContext context) {
-    Sticker? sticker = this.sticker;
-    if (sticker == null) {
+    if(isLoading) {
+      return Scaffold(
+        appBar: AppBar(title: Text('Details')),
+        body: Center(child: CircularProgressIndicator()),
+      );
+    }
+    if (error) {
       return Scaffold(
         appBar: AppBar(title: Text('Details')),
         body: Center(child: Text('Sticker not found')),
       );
     }
+
+    Sticker? sticker = this.sticker;
     return Scaffold(
       body: SingleChildScrollView(
         child: Column(

@@ -1,6 +1,7 @@
 import 'package:cromos_scanner_laliga/app/screens/collection_screen.dart';
 import 'package:cromos_scanner_laliga/app/screens/details_screen.dart';
 import 'package:cromos_scanner_laliga/app/screens/home_screen.dart';
+import 'package:cromos_scanner_laliga/app/screens/missing_screen.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
@@ -69,11 +70,11 @@ class App extends StatelessWidget {
       ),
       routes: {
         '/collection': (BuildContext context) => CollectionScreen(),
+        '/missing': (BuildContext context) => MissingScreen(),
         '/details': (BuildContext context) {
           final id = ModalRoute.of(context)!.settings.arguments as int;
           return DetailsScreen(id: id);
         },
-        //'/missing': (context) => MissingScreen(),
       },
     );
   }

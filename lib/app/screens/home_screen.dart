@@ -1,3 +1,4 @@
+import 'package:cromos_scanner_laliga/app/data/stickers_datasource.dart';
 import 'package:cromos_scanner_laliga/app/entities/count.dart';
 import 'package:cromos_scanner_laliga/app/entities/sticker.dart';
 import 'package:cromos_scanner_laliga/app/enums/count_type.dart';
@@ -15,11 +16,31 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  List<Count>? counts;
+
+  bool isLoading = true;
+  late List<Count> counts;
 
   final int crossAxisCount = 2;
 
-  Sticker? lastStickerAdded = Sticker(id: 1, name: 'Lamine yamal', club: '', imagePath: '', cardNumber: '', rarity: '');
+  Sticker? lastStickerAdded;
+
+  Future<void> setCounts() async {
+    List<int> counts = await StickersDataSource().getCounts();
+    this.counts = [
+      Count(count: counts[0], title: 'Total Cards', type: CountType.totalCards),
+      Count(count: counts[1], title: 'Collected', type: CountType.collected),
+      Count(count: counts[2], title: 'Missing', type: CountType.missing),
+    ];
+    isLoading = false;
+    setState(() {});
+  }
+
+
+  @override
+  void initState() {
+    setCounts();
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -27,6 +48,12 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildBody() {
+    if (isLoading) {
+      return Center(
+        child: CircularProgressIndicator(),
+      );
+    }
+
     return SingleChildScrollView(
       padding: EdgeInsets.symmetric(horizontal: 15),
       child: Column(
@@ -108,13 +135,7 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
   List<Widget> _buildCards() {
-    List<Count> counts =
-        this.counts ??
-        [
-          Count(count: 550, title: 'Total cards', type: CountType.totalCards),
-          Count(count: 550, title: 'Collected', type: CountType.collected),
-          Count(count: 550, title: 'Missing', type: CountType.missing),
-        ];
+    List<Count> counts = this.counts;
     List<Widget> cards = [];
     for (Count count in counts) {
       cards.add(CountCardWidget(count: count));

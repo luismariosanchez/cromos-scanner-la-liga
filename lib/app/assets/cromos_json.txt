@@ -1,0 +1,4349 @@
+[
+  {
+    "id": 1,
+    "name": "Escudo",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Alavés - Panini Liga Este - 2025-2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 2,
+    "name": "Eduardo Coudet",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Eduardo Coudet - Alavés - Panini Liga Este  - 2025-2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 3,
+    "name": "Sivera",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Sivera - Alavés - Panini Liga Este  - 2025-2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 4,
+    "name": "Owono",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Owono - Alavés - Panini Liga Este  - 2025-2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 5,
+    "name": "Tenaglia",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Tenaglia - Alavés - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 6,
+    "name": "Hugo Novoa",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Hugo Novoa - Alavés - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 7,
+    "name": "Garcés",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Garcés - Alavés - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 8,
+    "name": "Mouriño",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Mouriño - Alavés - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 9,
+    "name": "Moussa Diarra",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Moussa Diarra - Alavés - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 10,
+    "name": "Manu Sánchez",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Manu Sánchez - Alavés - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 11,
+    "name": "Guevara",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Guevara - Alavés - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 12,
+    "name": "Benavídez",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Benavídez - Alavés - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 13,
+    "name": "Guridi",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Guridi - Alavés - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 14,
+    "name": "Blanco",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Blanco - Alavés - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 15,
+    "name": "Carlos Vicente",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Carlos Vicente - Alavés - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 16,
+    "name": "Toni Martínez",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Toni Martínez - Alavés - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 17,
+    "name": "Conechny",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Conechny - Alavés - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 18,
+    "name": "Villalibre",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Villalibre - Alavés - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 19,
+    "name": "Escudo",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Athletic Club - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 20,
+    "name": "Valverde",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Valverde - Athletic Club - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 21,
+    "name": "Unai Simón",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Unai Simón - Athletic Club - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 22,
+    "name": "Gorosabel",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Gorosabel - Athletic Club - Panini Liga Este  - 2025 - 2026 - 05A - Básico.webp",
+    "cardNumber": "05A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 23,
+    "name": "Lekue",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Lekue - Athletic Club - Panini Liga Este  - 2025 - 2026 - 05B - Básico.webp",
+    "cardNumber": "05B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 24,
+    "name": "Vivian",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Vivian - Athletic Club - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 25,
+    "name": "Paredes",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Paredes - Athletic Club - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 26,
+    "name": "Yeray",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Yeray - Athletic Club - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 27,
+    "name": "Yuri",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Yuri - Athletic Club - Panini Liga Este  - 2025 - 2026 - 09A - Básico.webp",
+    "cardNumber": "09A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 28,
+    "name": "Adama Boiro",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Adama Boiro - Athletic Club - Panini Liga Este  - 2025 - 2026 - 09B - Básico.webp",
+    "cardNumber": "09B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 29,
+    "name": "Vesga",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Vesga - Athletic Club - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 30,
+    "name": "Jauregizar",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Jauregizar - Athletic Club - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 31,
+    "name": "Prados",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Prados - Athletic Club - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 32,
+    "name": "Ruiz de Galarreta",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Ruiz de Galarreta - Athletic Club - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 33,
+    "name": "Unai Gómez",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Unai Gómez - Athletic Club - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 34,
+    "name": "Sancet",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Sancet - Athletic Club - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 35,
+    "name": "Nico Williams",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Nico Williams - Athletic Club - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 36,
+    "name": "Maroan",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Maroan - Athletic Club - Panini Liga Este  - 2025 - 2026 - 17A - Básico.webp",
+    "cardNumber": "17A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 37,
+    "name": "Djaló",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Djaló - Athletic Club - Panini Liga Este  - 2025 - 2026 - 17B - Básico.webp",
+    "cardNumber": "17B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 38,
+    "name": "Williams",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Williams - Athletic Club - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 39,
+    "name": "Guruceta",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Guruceta - Athletic Club - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 40,
+    "name": "Berenguer",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Berenguer - Athletic Club - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 41,
+    "name": "Escudo",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 42,
+    "name": "Simeone",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Simeone - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 43,
+    "name": "Oblak",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Oblak - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 44,
+    "name": "Musso",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Musso - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 45,
+    "name": "Nahuel Molina",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Nahuel Molina - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 46,
+    "name": "Giménez",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Giménez - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 47,
+    "name": "LeNormand",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/LeNormand - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 48,
+    "name": "Lenglet",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Lenglet - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 49,
+    "name": "Galán",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Galán - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 50,
+    "name": "Gallagher",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Gallagher - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 51,
+    "name": "Marcos Llorente",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Marcos Llorente - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 52,
+    "name": "De Paul",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/De Paul - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 53,
+    "name": "Barrios",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Barrios - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 54,
+    "name": "Koke",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Koke - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 55,
+    "name": "Samuel Lino",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Samuel Lino - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 56,
+    "name": "Giuliano",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Giuliano - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 57,
+    "name": "Griezmann",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Griezmann - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 58,
+    "name": "Julián Álvarez",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Julián Álvarez - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 59,
+    "name": "Sørloth",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Sørloth - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 60,
+    "name": "Escudo",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 61,
+    "name": "Hansi Flick",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Hansi Flick - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 62,
+    "name": "Ter Stegen",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Ter Stegen - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 63,
+    "name": "Szczęsny",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Szczęsny - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 64,
+    "name": "Koundé",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Koundé - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 65,
+    "name": "Cubarsí",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Cubarsí - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 66,
+    "name": "Íñigo Martínez",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Íñigo Martínez - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 67,
+    "name": "Araújo",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Araújo - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 08A - Básico.webp",
+    "cardNumber": "08A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 68,
+    "name": "Christensen",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Christensen - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 08B - Básico.webp",
+    "cardNumber": "08B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 69,
+    "name": "Eric García",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Eric García - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 09A - Básico.webp",
+    "cardNumber": "09A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 70,
+    "name": "Héctor Font",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Héctor Font - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 09B - Básico.webp",
+    "cardNumber": "09B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 71,
+    "name": "Balde",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Balde - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 10A - Básico.webp",
+    "cardNumber": "10A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 72,
+    "name": "Gerard Martín",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Gerard Martín - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 10B - Básico.webp",
+    "cardNumber": "10B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 73,
+    "name": "Casadó",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Casadó - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 11A - Básico.webp",
+    "cardNumber": "11A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 74,
+    "name": "Marc Bernal",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Marc Bernal - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 11B - Básico.webp",
+    "cardNumber": "11B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 75,
+    "name": "De Jong",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/De Jong - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 76,
+    "name": "Fermín",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Fermín - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 77,
+    "name": "Gavi",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Gavi - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 78,
+    "name": "Pedri",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Pedri - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 79,
+    "name": "Dani Olmo",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Dani Olmo - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 80,
+    "name": "Ferrán. Torres",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Ferrán. Torres - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 81,
+    "name": "Raphinha",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Raphinha - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 82,
+    "name": "Lamine Yamal",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Lamine Yamal - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 83,
+    "name": "Lewandowski",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Lewandowski - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 84,
+    "name": "Escudo",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Real Betis - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 85,
+    "name": "Pellegrini",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Pellegrini - Real Betis - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 86,
+    "name": "Adrián",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Adrián - Real Betis - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 87,
+    "name": "Aitor Ruibal",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Aitor Ruibal - Real Betis - Panini Liga Este  - 2025 - 2026 - 05A - Básico.webp",
+    "cardNumber": "05A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 88,
+    "name": "Ortiz",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Ortiz - Real Betis - Panini Liga Este  - 2025 - 2026 - 05B - Básico.webp",
+    "cardNumber": "05B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 89,
+    "name": "Bartra",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Bartra - Real Betis - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 90,
+    "name": "Natan",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Natan - Real Betis - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 91,
+    "name": "Diego Llorente",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Diego Llorente - Real Betis - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 92,
+    "name": "Perraud",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Perraud - Real Betis - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 93,
+    "name": "Ricardo Rodríguez",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Ricardo Rodríguez - Real Betis - Panini Liga Este  - 2025 - 2026 - 10A - Básico.webp",
+    "cardNumber": "10A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 94,
+    "name": "Marc Roca",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Marc Roca - Real Betis - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 95,
+    "name": "Altimira",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Altimira - Real Betis - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 96,
+    "name": "Lo Celso",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Lo Celso - Real Betis - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 97,
+    "name": "Pablo Fornals",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Fornals - Real Betis - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 98,
+    "name": "Isco",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Isco - Real Betis - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 99,
+    "name": "Antony",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Antony - Real Betis - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 100,
+    "name": "Abde",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Abde - Real Betis - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 101,
+    "name": "Bakambu",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Bakambu - Real Betis - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 102,
+    "name": "Cucho Hernández",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Cucho Hernández - Real Betis - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 103,
+    "name": "Escudo",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - RC Celta - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 104,
+    "name": "Giráldez",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Giráldez - RC Celta - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 105,
+    "name": "Iván Villar",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Iván Villar - RC Celta - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 106,
+    "name": "Javi Rodríguez",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Javi Rodríguez - RC Celta - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 107,
+    "name": "Carreira",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Carreira - RC Celta - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 108,
+    "name": "Domínguez",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Domínguez - RC Celta - Panini Liga Este  - 2025 - 2026 - 07A - Básico.webp",
+    "cardNumber": "07A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 109,
+    "name": "Yoel Lago",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Yoel Lago - RC Celta - Panini Liga Este  - 2025 - 2026 - 07B - Básico.webp",
+    "cardNumber": "07B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 110,
+    "name": "Starfelt",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Starfelt - RC Celta - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 111,
+    "name": "Mingueza",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Mingueza - RC Celta - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 112,
+    "name": "Marcos Alonso",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Marcos Alonso - RC Celta - Panini Liga Este  - 2025 - 2026 - 10A - Básico.webp",
+    "cardNumber": "10A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 113,
+    "name": "Ristić",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Ristić - RC Celta - Panini Liga Este  - 2025 - 2026 - 10B - Básico.webp",
+    "cardNumber": "10B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 114,
+    "name": "Fran Beltrán",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Fran Beltrán - RC Celta - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 115,
+    "name": "Ilaix Moriba",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Ilaix Moriba - RC Celta - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 116,
+    "name": "Damián",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Damián - RC Celta - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 117,
+    "name": "Hugo Alvarez",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Hugo Alvarez - RC Celta - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 118,
+    "name": "Sotelo",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Sotelo - RC Celta - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 119,
+    "name": "Cervi",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Cervi - RC Celta - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 120,
+    "name": "Pablo Durán",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Durán - RC Celta - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 121,
+    "name": "Swedberg",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Swedberg - RC Celta - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 122,
+    "name": "Borja Iglesias",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Borja Iglesias - RC Celta - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 123,
+    "name": "Iago Aspas",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Iago Aspas - RC Celta - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 124,
+    "name": "Escudo",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Elche CF - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 125,
+    "name": "Sarabia",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Sarabia - Elche CF - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 126,
+    "name": "Dituro",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Dituro - Elche CF - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 127,
+    "name": "Álvaro Núñez",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Álvaro Núñez - Elche CF - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 128,
+    "name": "Diaby",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Diaby - Elche CF - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 129,
+    "name": "Affengruber",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Affengruber - Elche CF - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 130,
+    "name": "John Chetauy",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/John Chetauy - Elche CF - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 131,
+    "name": "Bigas",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Bigas - Elche CF - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 132,
+    "name": "Jairo",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Jairo - Elche CF - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 133,
+    "name": "Febas",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Febas - Elche CF - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 134,
+    "name": "Marc Aguado",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Marc Aguado - Elche CF - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 135,
+    "name": "Nico Fernández",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Nico Fernández - Elche CF - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 136,
+    "name": "Josan",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Josan - Elche CF - Panini Liga Este  - 2025 - 2026 - 15A - Básico.webp",
+    "cardNumber": "15A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 137,
+    "name": "Rodri Mendoza",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Rodri Mendoza - Elche CF - Panini Liga Este  - 2025 - 2026 - 15B - Básico.webp",
+    "cardNumber": "15B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 138,
+    "name": "Yago Santiago",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Yago Santiago - Elche CF - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 139,
+    "name": "Agustín Álvarez",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Agustín Álvarez - Elche CF - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 140,
+    "name": "Germán Valera",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Germán Valera - Elche CF - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 141,
+    "name": "Óscar Plano",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Óscar Plano - Elche CF - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 142,
+    "name": "Mourad",
+    "club": "Elche CF",
+    "imagePath": "lib/app/assets/stickers_image/Mourad - Elche CF - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 143,
+    "name": "Escudo",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 144,
+    "name": "Manolo González",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Manolo González - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 145,
+    "name": "Fortuño",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Fortuño - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 146,
+    "name": "ElHilali",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/ElHilali - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 147,
+    "name": "Cabrera",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Cabrera - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 148,
+    "name": "Calero",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Calero - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 149,
+    "name": "Pablo Ramón",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Ramón - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 150,
+    "name": "Carlos Romero",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Carlos Romero - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 151,
+    "name": "Gragera",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Gragera - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 152,
+    "name": "Edu Expósito",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Edu Expósito - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 153,
+    "name": "Pol Lozano",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Pol Lozano - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 154,
+    "name": "Antoniu Roca",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Antoniu Roca - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 155,
+    "name": "Jofre",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Jofre - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 156,
+    "name": "Roberto Fernández",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Roberto Fernández - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 157,
+    "name": "Puado",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Puado - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 158,
+    "name": "Pere Milla",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Pere Milla - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 159,
+    "name": "Escudo",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Getafe CF - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 160,
+    "name": "Bordalás",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Bordalás - Getafe CF - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 161,
+    "name": "David Soria",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/David Soria  - Getafe CF - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 162,
+    "name": "Letáček",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Letáček - Getafe CF - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 163,
+    "name": "Iglesias",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Iglesias - Getafe CF - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 164,
+    "name": "Sola",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Sola - Getafe CF - Panini Liga Este  - 2025 - 2026 - 06A - Básico.webp",
+    "cardNumber": "06A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 165,
+    "name": "Alderete",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Alderete - Getafe CF - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 166,
+    "name": "Djené",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Djené - Getafe CF - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 167,
+    "name": "Domingos Duarte",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Domingos Duarte - Getafe CF - Panini Liga Este  - 2025 - 2026 - 09A - Básico.webp",
+    "cardNumber": "09A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 168,
+    "name": "Berrocal",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Berrocal - Getafe CF - Panini Liga Este  - 2025 - 2026 - 09B - Básico.webp",
+    "cardNumber": "09B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 169,
+    "name": "Diego Rico",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Diego Rico - Getafe CF - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 170,
+    "name": "Arambarri",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Arambarri - Getafe CF - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 171,
+    "name": "Uche",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Uche - Getafe CF - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 172,
+    "name": "Milla",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Milla - Getafe CF - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 173,
+    "name": "Coba",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Coba - Getafe CF - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 174,
+    "name": "Peter Federico",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Peter Federico - Getafe CF - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 175,
+    "name": "Juanmi",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Juanmi - Getafe CF - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 176,
+    "name": "Borja Mayoral",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Borja Mayoral - Getafe CF - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 177,
+    "name": "Álvaro Rodríguez",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Álvaro Rodríguez - Getafe CF - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 178,
+    "name": "Escudo",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Girona FC - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 179,
+    "name": "Michel",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Michel - Girona FC - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 180,
+    "name": "Gazzaniga",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Gazzaniga - Girona FC - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 181,
+    "name": "Krapyvtsov",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Krapyvtsov - Girona FC - Panini Liga Este  - 2025 - 2026 - 04A - Básico.webp",
+    "cardNumber": "04A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 182,
+    "name": "Juan Carlos",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Juan Carlos - Girona FC - Panini Liga Este  - 2025 - 2026 - 04B - Básico.webp",
+    "cardNumber": "04B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 183,
+    "name": "Arnau",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Arnau - Girona FC - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 184,
+    "name": "Francés",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Francés - Girona FC - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 185,
+    "name": "David López",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/David López - Girona FC - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 186,
+    "name": "Krejčí",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Krejčí - Girona FC - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 187,
+    "name": "Blind",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Blind - Girona FC - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 188,
+    "name": "Miguel Gutiérrez",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Miguel Gutiérrez - Girona FC - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 189,
+    "name": "Solis",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Solis - Girona FC - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 190,
+    "name": "Vande Beek",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Vande Beek - Girona FC - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 191,
+    "name": "Arthur",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Arthur - Girona FC - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 192,
+    "name": "Yangel Herrera",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Yangel Herrera - Girona FC - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 193,
+    "name": "Iván Martín",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Iván Martín - Girona FC - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 194,
+    "name": "Tsygankov",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Tsygankov - Girona FC - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 195,
+    "name": "Yáser Asprilla",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Yáser Asprilla - Girona FC - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 196,
+    "name": "Portu",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Portu - Girona FC - Panini Liga Este  - 2025 - 2026 - 18A - Básico.webp",
+    "cardNumber": "18A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 197,
+    "name": "Misehouy",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Misehouy - Girona FC - Panini Liga Este  - 2025 - 2026 - 18B - Básico.webp",
+    "cardNumber": "18B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 198,
+    "name": "Stuani",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Stuani - Girona FC - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 199,
+    "name": "Abel Ruiz",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Abel Ruiz - Girona FC - Panini Liga Este  - 2025 - 2026 - 20A - Básico.webp",
+    "cardNumber": "20A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 200,
+    "name": "Miovski",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Miovski - Girona FC - Panini Liga Este  - 2025 - 2026 - 20B - Básico.webp",
+    "cardNumber": "20B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 201,
+    "name": "Escudo",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - UD Levante - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 202,
+    "name": "Entrenador",
+    "club": "Julián Calero - UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador -Julián Calero - UD Levante - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 203,
+    "name": "Alfonso Pastor",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Alfonso Pastor - UD Levante - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 204,
+    "name": "Xavi Grande",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Xavi Grande - UD Levante - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 205,
+    "name": "Dela",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Dela - UD Levante - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 206,
+    "name": "Cabello",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Cabello - UD Levante - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 207,
+    "name": "Elgezabal",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Elgezabal - UD Levante - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 208,
+    "name": "Pampín",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Pampín - UD Levante - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 209,
+    "name": "Iborra",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Iborra - UD Levante - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 210,
+    "name": "Oriol Rey",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Oriol Rey - UD Levante - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 211,
+    "name": "Sergio Lozano",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Sergio Lozano - UD Levante - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 212,
+    "name": "Pablo Martínez",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Martínez - UD Levante - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 213,
+    "name": "Carlos Álvarez",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Carlos Álvarez - UD Levante - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 214,
+    "name": "Iván Romero",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Iván Romero - UD Levante - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 215,
+    "name": "Morales",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Morales - UD Levante - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 216,
+    "name": "Carlos Espí",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Carlos Espí - UD Levante - Panini Liga Este  - 2025 - 2026 - 19A - Básico.webp",
+    "cardNumber": "19A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 217,
+    "name": "Brugué",
+    "club": "UD Levante",
+    "imagePath": "lib/app/assets/stickers_image/Brugué - UD Levante - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 218,
+    "name": "Escudo",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Real Madrid - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 219,
+    "name": "Xavi Alonso",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Xavi Alonso - Real Madrid - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 220,
+    "name": "Courtois",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Courtois - Real Madrid - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 221,
+    "name": "Lunin",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Lunin - Real Madrid - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 222,
+    "name": "Carvajal",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Carvajal - Real Madrid - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 223,
+    "name": "Asencio",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Asencio - Real Madrid - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 224,
+    "name": "Rüdiger",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Rüdiger - Real Madrid - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 225,
+    "name": "Militão",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Militão - Real Madrid - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 226,
+    "name": "Alaba",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Alaba - Real Madrid - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 227,
+    "name": "Mendy",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Mendy - Real Madrid - Panini Liga Este  - 2025 - 2026 - 10A - Básico.webp",
+    "cardNumber": "10A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 228,
+    "name": "Fran García",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Fran García - Real Madrid - Panini Liga Este  - 2025 - 2026 - 10B - Básico.webp",
+    "cardNumber": "10B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 229,
+    "name": "Tchouamení",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Tchouamení - Real Madrid - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 230,
+    "name": "Camavinga",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Camavinga - Real Madrid - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 231,
+    "name": "Dani Ceballos",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Dani Ceballos - Real Madrid - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 232,
+    "name": "Fede Valverde",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Fede Valverde - Real Madrid - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 233,
+    "name": "Bellingham",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Bellingham - Real Madrid - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 234,
+    "name": "Güler",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Güler - Real Madrid - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 235,
+    "name": "Brahim Díaz",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Brahim Díaz - Real Madrid - Panini Liga Este  - 2025 - 2026 - 17A - Básico.webp",
+    "cardNumber": "17A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 236,
+    "name": "Endrick",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Endrick - Real Madrid - Panini Liga Este  - 2025 - 2026 - 17B - Básico.webp",
+    "cardNumber": "17B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 237,
+    "name": "Rodrygo",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Rodrygo - Real Madrid - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 238,
+    "name": "Mbappé",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Mbappé - Real Madrid - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 239,
+    "name": "Vinicius",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Vinicius - Real Madrid - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 240,
+    "name": "Escudo",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 241,
+    "name": "Jagoba Arrasate",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Jagoba Arrasate - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 242,
+    "name": "Greif",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Greif - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 243,
+    "name": "Maffeo",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Maffeo - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 05A - Básico.webp",
+    "cardNumber": "05A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 244,
+    "name": "Morey",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Morey - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 05B - Básico.webp",
+    "cardNumber": "05B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 245,
+    "name": "Raíllo",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Raíllo - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 246,
+    "name": "Copete",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Copete - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 247,
+    "name": "Valjent",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Valjent - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 248,
+    "name": "Mojica",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Mojica - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 249,
+    "name": "Lato",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Lato - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 250,
+    "name": "Mascarell",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Mascarell - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 251,
+    "name": "Samu Costa",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Samu Costa - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 252,
+    "name": "Darder",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Darder - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 253,
+    "name": "Antonio Sánchez",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Antonio Sánchez - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 254,
+    "name": "Dani Rodríguez",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Dani Rodríguez - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 255,
+    "name": "Morlanes",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Morlanes - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 256,
+    "name": "Marc Domènech",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Marc Domènech - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 257,
+    "name": "Asano",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Asano - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 258,
+    "name": "Muriqi",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Muriqi - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 259,
+    "name": "Abdón",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Abdón - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 20A - Básico.webp",
+    "cardNumber": "20A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 260,
+    "name": "Larin",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Larin - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 20B - Básico.webp",
+    "cardNumber": "20B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 261,
+    "name": "Escudo",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 262,
+    "name": "Entrenador",
+    "club": "Alessio Lisci - CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador- Alessio Lisci - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 263,
+    "name": "Sergio Herrera",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Sergio Herrera - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 264,
+    "name": "Aitor Fernández",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Aitor Fernández - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 265,
+    "name": "Catena",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Catena - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 266,
+    "name": "Boyomo",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Boyomo - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 267,
+    "name": "Herrando",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Herrando - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 268,
+    "name": "Juan Cruz",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Juan Cruz - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 269,
+    "name": "Abel Bretones",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Abel Bretones - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 270,
+    "name": "Moncayola",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Moncayola - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 271,
+    "name": "Torró",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Torró - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 272,
+    "name": "Iker Muñoz",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Iker Muñoz - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 273,
+    "name": "Rubén García",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Rubén García - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 274,
+    "name": "Moi Gómez",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Moi Gómez - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 275,
+    "name": "Aimar Oroz",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Aimar Oroz - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 276,
+    "name": "Kike Baraja",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Kike Baraja - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 277,
+    "name": "Budimir",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Budimir - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 278,
+    "name": "Raúl García",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Raúl García - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 279,
+    "name": "Escudo",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 280,
+    "name": "Veljko Paunović",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Veljko Paunović - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 281,
+    "name": "Aarón Escandell",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Aarón Escandell - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 282,
+    "name": "Nacho Vidal",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Nacho Vidal - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 283,
+    "name": "Dani Calvo",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Dani Calvo - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 284,
+    "name": "Luengo",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Luengo - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 285,
+    "name": "David Costas",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/David Costas - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 286,
+    "name": "Rahim Alhassane",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Rahim Alhassane - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 287,
+    "name": "Pomares",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Pomares - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 288,
+    "name": "Colombatto",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Colombatto - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 289,
+    "name": "Sibo",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Sibo - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 290,
+    "name": "Santi Cazorla",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Santi Cazorla - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 291,
+    "name": "Álex Cardero",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Álex Cardero - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 16A - Básico.webp",
+    "cardNumber": "16A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 292,
+    "name": "Lucas Ahijado",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Lucas Ahijado - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 16B - Básico.webp",
+    "cardNumber": "16B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 293,
+    "name": "Hassan",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Hassan - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 294,
+    "name": "Ilyas Chaira",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Ilyas Chaira - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 18A - Básico.webp",
+    "cardNumber": "18A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 295,
+    "name": "Paraschiv",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Paraschiv - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 296,
+    "name": "Paulino",
+    "club": "Real Oviedo",
+    "imagePath": "lib/app/assets/stickers_image/Paulino - Real Oviedo - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 297,
+    "name": "Escudo",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 298,
+    "name": "Íñigo Pérez",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Íñigo Pérez - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 299,
+    "name": "Batalla",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Batalla - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 300,
+    "name": "Cárdenas",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Cárdenas - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 301,
+    "name": "Balliu",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Balliu - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 302,
+    "name": "Ratiu",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Ratiu - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 303,
+    "name": "Lejeune",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Lejeune - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 304,
+    "name": "Mumin",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Mumin - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 305,
+    "name": "Espino",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Espino - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 306,
+    "name": "Pep Chavarría",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Pep Chavarría - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 307,
+    "name": "Pathé Ciss",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Pathé Ciss - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 308,
+    "name": "Óscar Valentín",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Óscar Valentín - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 309,
+    "name": "Pedro Díaz",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Pedro Díaz - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 310,
+    "name": "Isi",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Isi - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 311,
+    "name": "Nteka",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Nteka - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 15A - Básico.webp",
+    "cardNumber": "15A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 312,
+    "name": "Trejo",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Trejo - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 15B - Básico.webp",
+    "cardNumber": "15B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 313,
+    "name": "Unai López",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Unai López - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 314,
+    "name": "Camello",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Camello - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 315,
+    "name": "De Frutos",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/De Frutos - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 316,
+    "name": "Álvaro García",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Álvaro García - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 317,
+    "name": "Etienne Eto'o",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Etienne Eto'o - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 318,
+    "name": "Escudo",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 319,
+    "name": "Sergio Francisco",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Sergio Francisco - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 320,
+    "name": "Remiro",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Remiro - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 321,
+    "name": "Marrero",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Marrero - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 322,
+    "name": "Aramburu",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Aramburu - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 05A - Básico.webp",
+    "cardNumber": "05A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 323,
+    "name": "Traoré",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Traoré - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 05B - Básico.webp",
+    "cardNumber": "05B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 324,
+    "name": "Zubeldia",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Zubeldia - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 325,
+    "name": "Pacheco",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Pacheco - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 326,
+    "name": "Aritz Elustondo",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Aritz Elustondo - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 327,
+    "name": "Javi López",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Javi López - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 10A - Básico.webp",
+    "cardNumber": "10A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 328,
+    "name": "Aihen Muñoz",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Aihen Muñoz - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 10B - Básico.webp",
+    "cardNumber": "10B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 329,
+    "name": "Turrientes",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Turrientes - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 330,
+    "name": "Pablo Marín",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Marín - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 331,
+    "name": "Sergio Gómez",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Sergio Gómez - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 332,
+    "name": "Brais Méndez",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Brais Méndez - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 14A - Básico.webp",
+    "cardNumber": "14A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 333,
+    "name": "Olasagasti",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Olasagasti - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 14B - Básico.webp",
+    "cardNumber": "14B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 334,
+    "name": "Sučić",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Sučić - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 335,
+    "name": "Kubo",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Kubo - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 336,
+    "name": "Barrenetxea",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Barrenetxea - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 337,
+    "name": "Oyarzábal",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Oyarzábal - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 338,
+    "name": "Mariezkurren",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Mariezkurren - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 339,
+    "name": "Óskarsson",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Óskarsson - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 340,
+    "name": "Escudo",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 341,
+    "name": "Matías Almeyda",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Matías Almeyda - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 342,
+    "name": "Nyland",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Nyland - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 343,
+    "name": "Álvaro Fernández",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Álvaro Fernández - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 344,
+    "name": "Carmona",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Carmona - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 345,
+    "name": "Juanlu",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Juanlu - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 346,
+    "name": "Kike Salas",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Kike Salas - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 07A - Básico.webp",
+    "cardNumber": "07A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 347,
+    "name": "Marcão",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Marcão - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 07B - Básico.webp",
+    "cardNumber": "07B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 348,
+    "name": "Badé",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Badé - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 349,
+    "name": "Nianzou",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Nianzou - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 350,
+    "name": "Pedrosa",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Pedrosa - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 351,
+    "name": "Gudelj",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Gudelj - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 352,
+    "name": "Sow",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Sow - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 353,
+    "name": "Agoumé",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Agoumé - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 354,
+    "name": "Vargas",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Vargas - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 355,
+    "name": "Peque",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Peque - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 356,
+    "name": "Ejuke",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Ejuke - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 357,
+    "name": "Lukebakio",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Lukebakio - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 358,
+    "name": "Isaac Romero",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Isaac Romero - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 359,
+    "name": "Akor Adams",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Akor Adams - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 20A - Básico.webp",
+    "cardNumber": "20A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 360,
+    "name": "Idumbo",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Idumbo - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 20B - Básico.webp",
+    "cardNumber": "20B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 361,
+    "name": "Escudo",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Valencia CF - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 362,
+    "name": "Carlos Corberán",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Carlos Corberán - Valencia CF - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 363,
+    "name": "Dimitrievski",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Dimitrievski - Valencia CF - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 364,
+    "name": "Correia",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Correia - Valencia CF - Panini Liga Este  - 2025 - 2026 - 05A - Básico.webp",
+    "cardNumber": "05A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 365,
+    "name": "Foulquier",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Foulquier - Valencia CF - Panini Liga Este  - 2025 - 2026 - 05B - Básico.webp",
+    "cardNumber": "05B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 366,
+    "name": "Mosquera",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Mosquera - Valencia CF - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 367,
+    "name": "Diakhaby",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Diakhaby - Valencia CF - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 368,
+    "name": "Tárrega",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Tárrega - Valencia CF - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 369,
+    "name": "Yarek",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Yarek - Valencia CF - Panini Liga Este  - 2025 - 2026 - 09A - Básico.webp",
+    "cardNumber": "09A",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 370,
+    "name": "Jesús Vázquez",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Jesús Vázquez - Valencia CF - Panini Liga Este  - 2025 - 2026 - 09B - Básico.webp",
+    "cardNumber": "09B",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 371,
+    "name": "Gayà",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Gayà - Valencia CF - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 372,
+    "name": "Guillamón",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Guillamón - Valencia CF - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 373,
+    "name": "Pepelu",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Pepelu - Valencia CF - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 374,
+    "name": "André Almeida",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/André Almeida - Valencia CF - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 375,
+    "name": "Javi Guerra",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Javi Guerra - Valencia CF - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 376,
+    "name": "Luis Rioja",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Luis Rioja - Valencia CF - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 377,
+    "name": "Canós",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Canós - Valencia CF - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 378,
+    "name": "Fran Pérez",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Fran Pérez - Valencia CF - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 379,
+    "name": "Hugo Duro",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Hugo Duro - Valencia CF - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 380,
+    "name": "Diego López",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Diego López - Valencia CF - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 381,
+    "name": "Escudo",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Escudo - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 001 - Básico.webp",
+    "cardNumber": "001",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 382,
+    "name": "Marcelino",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Entrenador - Marcelino - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 002 - Básico.webp",
+    "cardNumber": "002",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 383,
+    "name": "Luiz Júnior",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Luiz Júnior - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 003 - Básico.webp",
+    "cardNumber": "003",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 384,
+    "name": "Diego Conde",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Diego Conde - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 004 - Básico.webp",
+    "cardNumber": "004",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 385,
+    "name": "Pau Navarro",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Pau Navarro - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 005 - Básico.webp",
+    "cardNumber": "005",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 386,
+    "name": "Foyth",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Foyth - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 006 - Básico.webp",
+    "cardNumber": "006",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 387,
+    "name": "Logan Costa",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Logan Costa - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 007 - Básico.webp",
+    "cardNumber": "007",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 388,
+    "name": "Kambwala",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Kambwala - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 008 - Básico.webp",
+    "cardNumber": "008",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 389,
+    "name": "Sergi Cardona",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Sergi Cardona - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 009 - Básico.webp",
+    "cardNumber": "009",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 390,
+    "name": "Pedraza",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Pedraza - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 010 - Básico.webp",
+    "cardNumber": "010",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 391,
+    "name": "Santi Comesaña",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Santi Comesaña - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 011 - Básico.webp",
+    "cardNumber": "011",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 392,
+    "name": "Pape Gueye",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Pape Gueye - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 012 - Básico.webp",
+    "cardNumber": "012",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 393,
+    "name": "Parejo",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Parejo - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 013 - Básico.webp",
+    "cardNumber": "013",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 394,
+    "name": "Denis Suárez",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Denis Suárez - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 014 - Básico.webp",
+    "cardNumber": "014",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 395,
+    "name": "Yeremy Pino",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Yeremy Pino - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 015 - Básico.webp",
+    "cardNumber": "015",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 396,
+    "name": "Ilias",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Ilias - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 016 - Básico.webp",
+    "cardNumber": "016",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 397,
+    "name": "Pépé",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Pépé - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 017 - Básico.webp",
+    "cardNumber": "017",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 398,
+    "name": "Gerard Moreno",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Gerard Moreno - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 018 - Básico.webp",
+    "cardNumber": "018",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 399,
+    "name": "Ayoze",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Ayoze - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 019 - Básico.webp",
+    "cardNumber": "019",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 400,
+    "name": "Barry",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Barry - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 020 - Básico.webp",
+    "cardNumber": "020",
+    "rarity": "Básico",
+    "status": "missing"
+  },
+  {
+    "id": 401,
+    "name": "Asencio",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Asencio - Real Madrid - Panini Liga Este  - 2025 - 2026 - 001 - Súper Kids.webp",
+    "cardNumber": "001",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 402,
+    "name": "Balde",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Balde - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 002 - Súper Kids.webp",
+    "cardNumber": "002",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 403,
+    "name": "Barrios",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Barrios - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 003 - Súper Kids.webp",
+    "cardNumber": "003",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 404,
+    "name": "Barry",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Barry - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 004 - Súper Kids.webp",
+    "cardNumber": "004",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 405,
+    "name": "Casadó",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Casadó - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 005 - Súper Kids.webp",
+    "cardNumber": "005",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 406,
+    "name": "Cubarsí",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Cubarsí - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 006 - Súper Kids.webp",
+    "cardNumber": "006",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 407,
+    "name": "Diego Lopez",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Diego Lopez - Valencia CF - Panini Liga Este  - 2025 - 2026 - 007 - Súper Kids.webp",
+    "cardNumber": "007",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 408,
+    "name": "Fer López",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Fer López - RC Celta - Panini Liga Este  - 2025 - 2026 - 008 - Súper Kids.webp",
+    "cardNumber": "008",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 409,
+    "name": "Giuliano",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Giuliano - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 009 - Súper Kids.webp",
+    "cardNumber": "009",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 410,
+    "name": "Güler",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Güler - Real Madrid - Panini Liga Este  - 2025 - 2026 - 010 - Súper Kids.webp",
+    "cardNumber": "010",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 411,
+    "name": "Jaureguizar",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Jaureguizar - Athletic Club - Panini Liga Este  - 2025 - 2026 - 011 - Súper Kids.webp",
+    "cardNumber": "011",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 412,
+    "name": "Javi Guerra",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Javi Guerra  - Valencia CF - Panini Liga Este  - 2025 - 2026 - 012 - Súper Kids.webp",
+    "cardNumber": "012",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 413,
+    "name": "Jesús Rodríguez",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Jesús Rodríguez - Real Betis - Panini Liga Este  - 2025 - 2026 - 013 - Súper Kids.webp",
+    "cardNumber": "013",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 414,
+    "name": "Lamine Yamal",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Lamine Yamal - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 014 - Súper Kids.webp",
+    "cardNumber": "014",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 415,
+    "name": "Pablo Marín",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Marín - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 015 - Súper Kids.webp",
+    "cardNumber": "015",
+    "rarity": "Súper Kids",
+    "status": "missing"
+  },
+  {
+    "id": 416,
+    "name": "Asencio",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Asencio  Liga Este 2025-26  Real Madrid - K1 - Super Kids - Kromix.webp",
+    "cardNumber": "K1",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 417,
+    "name": "Balde",
+    "club": "Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Balde  Liga Este 2025-26  Barcelona - K2 - Super Kids - Kromix.webp",
+    "cardNumber": "K2",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 418,
+    "name": "Barrios",
+    "club": "Atl. de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Barrios  Liga Este 2025-26  Atl. de Madrid - K3 - Super Kids - Kromix.webp",
+    "cardNumber": "K3",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 419,
+    "name": "Barry",
+    "club": "Villarreal",
+    "imagePath": "lib/app/assets/stickers_image/Barry  Liga Este 2025-26  Villarreal - K4 - Super Kids - Kromix.webp",
+    "cardNumber": "K4",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 420,
+    "name": "Casadó",
+    "club": "Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Casadó  Liga Este 2025-26  Barcelona - K5 - Super Kids - Kromix.webp",
+    "cardNumber": "K5",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 421,
+    "name": "Cubarsí",
+    "club": "Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Cubarsí  Liga Este 2025-26  Barcelona - K6 - Super Kids - Kromix.webp",
+    "cardNumber": "K6",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 422,
+    "name": "Diego Lopez",
+    "club": "Valencia",
+    "imagePath": "lib/app/assets/stickers_image/Diego Lopez  Liga Este 2025-26  Valencia - K7 - Super Kids - Kromix.webp",
+    "cardNumber": "K7",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 423,
+    "name": "Fer Lopez",
+    "club": "Celta",
+    "imagePath": "lib/app/assets/stickers_image/Fer Lopez  Liga Este 2025-26  Celta - K8 - Super Kids - Kromix.webp",
+    "cardNumber": "K8",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 424,
+    "name": "Giuliano",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Giuliano Atlético de Madrid  Panini Liga Este  - 2025 - 2026 - K9 - Súper Kids - KroMix.webp",
+    "cardNumber": "K9",
+    "rarity": "Súper Kids - KroMix",
+    "status": "missing"
+  },
+  {
+    "id": 425,
+    "name": "Güler",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Güler  Liga Este 2025-26  Real Madrid - K10 - Super Kids - Kromix.webp",
+    "cardNumber": "K10",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 426,
+    "name": "Jauregizar",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Jauregizar  Liga Este 2025-26  Athletic Club - K11 - Super Kids - Kromix.webp",
+    "cardNumber": "K11",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 427,
+    "name": "Javi Guerra",
+    "club": "Valencia",
+    "imagePath": "lib/app/assets/stickers_image/Javi Guerra  Liga Este 2025-26  Valencia - K12 - Super Kids - Kromix.webp",
+    "cardNumber": "K12",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 428,
+    "name": "Jesus Rodríguez",
+    "club": "Betis",
+    "imagePath": "lib/app/assets/stickers_image/Jesus Rodríguez  Liga Este 2025-26  Betis - K13 - Super Kids - Kromix.webp",
+    "cardNumber": "K13",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 429,
+    "name": "Lamine Yamal",
+    "club": "Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Lamine Yamal  Liga Este 2025-26  Barcelona - K14 - Super Kids - Kromix.webp",
+    "cardNumber": "K14",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 430,
+    "name": "Pablo Marin",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Pablo Marin  Liga Este 2025-26  Real Sociedad - K15 - Super Kids - Kromix.webp",
+    "cardNumber": "K15",
+    "rarity": "Super Kids - Kromix",
+    "status": "missing"
+  },
+  {
+    "id": 431,
+    "name": "Batalla",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Batalla - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 001 - Míster Cero.webp",
+    "cardNumber": "001",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 432,
+    "name": "Courtois",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Courtois - Real Madrid - Panini Liga Este  - 2025 - 2026 - 002 - Míster Cero.webp",
+    "cardNumber": "002",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 433,
+    "name": "David Soria",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/David Soria  - Getafe CF - Panini Liga Este  - 2025 - 2026 - 003 - Míster Cero.webp",
+    "cardNumber": "003",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 434,
+    "name": "Dimitrievski",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Dimitrievski - Valencia CF - Panini Liga Este  - 2025 - 2026 - 004 - Míster Cero.webp",
+    "cardNumber": "004",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 435,
+    "name": "Gazzaniga",
+    "club": "Girona FC",
+    "imagePath": "lib/app/assets/stickers_image/Gazzaniga - Girona FC - Panini Liga Este  - 2025 - 2026 - 005 - Míster Cero.webp",
+    "cardNumber": "005",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 436,
+    "name": "Luiz Júnior",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Luiz Júnior - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 006 - Míster Cero.webp",
+    "cardNumber": "006",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 437,
+    "name": "Lunin",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Lunin - Real Madrid - Panini Liga Este  - 2025 - 2026 - 007 - Míster Cero.webp",
+    "cardNumber": "007",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 438,
+    "name": "Nyland",
+    "club": "Sevilla FC",
+    "imagePath": "lib/app/assets/stickers_image/Nyland - Sevilla FC - Panini Liga Este  - 2025 - 2026 - 008 - Míster Cero.webp",
+    "cardNumber": "008",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 439,
+    "name": "Oblak",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Oblak - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 009 - Míster Cero.webp",
+    "cardNumber": "009",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 440,
+    "name": "Remiro",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Remiro - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 010 - Míster Cero.webp",
+    "cardNumber": "010",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 441,
+    "name": "Sergio Herrera",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Sergio Herrera - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 011 - Míster Cero.webp",
+    "cardNumber": "011",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 442,
+    "name": "Sivera",
+    "club": "Alavés",
+    "imagePath": "lib/app/assets/stickers_image/Sivera  - Alavés - Panini Liga Este  - 2025 - 2026 - 012 - Míster Cero.webp",
+    "cardNumber": "012",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 443,
+    "name": "Unai Simón",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Unai Simón - Athletic Club - Panini Liga Este  - 2025 - 2026 - 013 - Míster Cero.webp",
+    "cardNumber": "013",
+    "rarity": "Míster Cero",
+    "status": "missing"
+  },
+  {
+    "id": 444,
+    "name": "Casillas",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Casillas - Real Madrid - Panini Liga Este  - 2025 - 2026 - 014 - Míster Cero Iconos.webp",
+    "cardNumber": "014",
+    "rarity": "Míster Cero Iconos",
+    "status": "missing"
+  },
+  {
+    "id": 445,
+    "name": "Reina",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Reina - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 015 - Míster Cero Iconos.webp",
+    "cardNumber": "015",
+    "rarity": "Míster Cero Iconos",
+    "status": "missing"
+  },
+  {
+    "id": 446,
+    "name": "Víctor Valdés",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Víctor Valdés - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 016 - Míster Cero Iconos.webp",
+    "cardNumber": "016",
+    "rarity": "Míster Cero Iconos",
+    "status": "missing"
+  },
+  {
+    "id": 447,
+    "name": "Aimar Oroz   Budimir",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Aimar Oroz  Budimir - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 001 - Mix.webp",
+    "cardNumber": "001",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 448,
+    "name": "Arambarri  Milla",
+    "club": "Getafe CF",
+    "imagePath": "lib/app/assets/stickers_image/Arambarri Milla - Getafe CF - Panini Liga Este  - 2025 - 2026 - 002 - Mix.webp",
+    "cardNumber": "002",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 449,
+    "name": "Asencio   Rüdiger",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Asencio  Rüdiger - Real Madrid - Panini Liga Este  - 2025 - 2026 - 003 - Mix.webp",
+    "cardNumber": "003",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 450,
+    "name": "Cubarsí   Íñigo Martínez",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Cubarsí  Íñigo Martínez - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 004 - Mix.webp",
+    "cardNumber": "004",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 451,
+    "name": "Darder   Muriqi",
+    "club": "RCD Mallorca",
+    "imagePath": "lib/app/assets/stickers_image/Darder  Muriqi - RCD Mallorca - Panini Liga Este  - 2025 - 2026 - 005 - Mix.webp",
+    "cardNumber": "005",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 452,
+    "name": "De Paul   Barrios",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/De Paul  Barrios - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 006 - Mix.webp",
+    "cardNumber": "006",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 453,
+    "name": "Fede Valverde   Bellingham",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Fede Valverde  Bellingham - Real Madrid - Panini Liga Este  - 2025 - 2026 - 007 - Mix.webp",
+    "cardNumber": "007",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 454,
+    "name": "Fern López   Iago Aspas",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Fern López  Iago Aspas - RC Celta - Panini Liga Este  - 2025 - 2026 - 008 - Mix.webp",
+    "cardNumber": "008",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 455,
+    "name": "Giuliano   Sørloth",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Giuliano  Sørloth - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 009 - Mix.webp",
+    "cardNumber": "009",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 456,
+    "name": "Griezmann   Julián Álvarez",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Griezmann  Julián Álvarez - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 010 - Mix.webp",
+    "cardNumber": "010",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 457,
+    "name": "Isco   Lo Celso",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Isco  Lo Celso - Real Betis - Panini Liga Este  - 2025 - 2026 - 011 - Mix.webp",
+    "cardNumber": "011",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 458,
+    "name": "Isi   Álvaro García",
+    "club": "Rayo Vallecano",
+    "imagePath": "lib/app/assets/stickers_image/Isi  Álvaro García - Rayo Vallecano - Panini Liga Este  - 2025 - 2026 - 012 - Mix.webp",
+    "cardNumber": "012",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 459,
+    "name": "Jauregizar   Sancet",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Jauregizar  Sancet - Athletic Club - Panini Liga Este  - 2025 - 2026 - 013 - Mix.webp",
+    "cardNumber": "013",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 460,
+    "name": "Javi Guerra   Hugo Duro",
+    "club": "Valencia CF",
+    "imagePath": "lib/app/assets/stickers_image/Javi Guerra  Hugo Duro - Valencia CF - Panini Liga Este  - 2025 - 2026 - 014 - Mix.webp",
+    "cardNumber": "014",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 461,
+    "name": "Jesús Rodríguez   Cucho Hernández",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Jesús Rodríguez  Cucho Hernández - Real Betis - Panini Liga Este  - 2025 - 2026 - 015 - Mix.webp",
+    "cardNumber": "015",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 462,
+    "name": "Jofre   Puado",
+    "club": "RCD Espanyol",
+    "imagePath": "lib/app/assets/stickers_image/Jofre  Puado - RCD Espanyol - Panini Liga Este  - 2025 - 2026 - 016 - Mix.webp",
+    "cardNumber": "016",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 463,
+    "name": "Kubo   Oyarzábal",
+    "club": "Real Sociedad",
+    "imagePath": "lib/app/assets/stickers_image/Kubo  Oyarzábal - Real Sociedad - Panini Liga Este  - 2025 - 2026 - 017 - Mix.webp",
+    "cardNumber": "017",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 464,
+    "name": "Mingueza   Javi Rodríguez",
+    "club": "RC Celta",
+    "imagePath": "lib/app/assets/stickers_image/Mingueza  Javi Rodríguez - RC Celta - Panini Liga Este  - 2025 - 2026 - 018 - Mix.webp",
+    "cardNumber": "018",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 465,
+    "name": "Parejo   Ayoze",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Parejo  Ayoze - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 019 - Mix.webp",
+    "cardNumber": "019",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 466,
+    "name": "Pedri   Lamine Yamal",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Pedri  Lamine Yamal - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 020 - Mix.webp",
+    "cardNumber": "020",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 467,
+    "name": "Raphinha   Lewandowski",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Raphinha  Lewandowski - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 021 - Mix.webp",
+    "cardNumber": "021",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 468,
+    "name": "Vinicius   Mbappé",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Vinicius  Mbappé - Real Madrid - Panini Liga Este  - 2025 - 2026 - 022 - Mix.webp",
+    "cardNumber": "022",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 469,
+    "name": "Williams   Nico Williams",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Williams  Nico Williams - Athletic Club - Panini Liga Este  - 2025 - 2026 - 023 - Mix.webp",
+    "cardNumber": "023",
+    "rarity": "Mix",
+    "status": "missing"
+  },
+  {
+    "id": 470,
+    "name": "Huijsen",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Huijsen - Real Madrid - Panini Liga Este  - 2025 - 2026 - UF1 - Últimos Fichajes.webp",
+    "cardNumber": "UF1",
+    "rarity": "Últimos Fichajes",
+    "status": "missing"
+  },
+  {
+    "id": 471,
+    "name": "Ayoze",
+    "club": "Villarreal CF",
+    "imagePath": "lib/app/assets/stickers_image/Ayoze - Villarreal CF - Panini Liga Este  - 2025 - 2026 - 001 - Extra Gold.webp",
+    "cardNumber": "001",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 472,
+    "name": "Bellingham",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Bellingham - Real Madrid - Panini Liga Este  - 2025 - 2026 - 002 - Extra Gold.webp",
+    "cardNumber": "002",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 473,
+    "name": "Budimir",
+    "club": "CA Osasuna",
+    "imagePath": "lib/app/assets/stickers_image/Budimir - CA Osasuna - Panini Liga Este  - 2025 - 2026 - 003 - Extra Gold.webp",
+    "cardNumber": "003",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 474,
+    "name": "Isco",
+    "club": "Real Betis",
+    "imagePath": "lib/app/assets/stickers_image/Isco - Real Betis - Panini Liga Este  - 2025 - 2026 - 004 - Extra Gold.webp",
+    "cardNumber": "004",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 475,
+    "name": "Lewandowski",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Lewandowski - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 005 - Extra Gold.webp",
+    "cardNumber": "005",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 476,
+    "name": "Nico Williams",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Nico Williams - Athletic Club - Panini Liga Este  - 2025 - 2026 - 006 - Extra Gold.webp",
+    "cardNumber": "006",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 477,
+    "name": "Pedri",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Pedri - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 007 - Extra Gold.webp",
+    "cardNumber": "007",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 478,
+    "name": "Sancet",
+    "club": "Athletic Club",
+    "imagePath": "lib/app/assets/stickers_image/Sancet - Athletic Club - Panini Liga Este  - 2025 - 2026 - 008 - Extra Gold.webp",
+    "cardNumber": "008",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 479,
+    "name": "Raphinha",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Raphinha - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 009 - Extra Gold.webp",
+    "cardNumber": "009",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 480,
+    "name": "Vinícius",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Vinícius - Real Madrid - Panini Liga Este  - 2025 - 2026 - 010 - Extra Gold.webp",
+    "cardNumber": "010",
+    "rarity": "Extra Gold",
+    "status": "missing"
+  },
+  {
+    "id": 481,
+    "name": "Julián Álvarez",
+    "club": "Atlético de Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Julián Álvarez - Atlético de Madrid - Panini Liga Este  - 2025 - 2026 - 001 - Extra Gold Supreme.webp",
+    "cardNumber": "001",
+    "rarity": "Extra Gold Supreme",
+    "status": "missing"
+  },
+  {
+    "id": 482,
+    "name": "Lamine Yamal",
+    "club": "FC Barcelona",
+    "imagePath": "lib/app/assets/stickers_image/Lamine Yamal - FC Barcelona - Panini Liga Este  - 2025 - 2026 - 002 - Extra Gold Supreme.webp",
+    "cardNumber": "002",
+    "rarity": "Extra Gold Supreme",
+    "status": "missing"
+  },
+  {
+    "id": 483,
+    "name": "Mbappé",
+    "club": "Real Madrid",
+    "imagePath": "lib/app/assets/stickers_image/Mbappé - Real Madrid - Panini Liga Este  - 2025 - 2026 - 003 - Extra Gold Supreme.webp",
+    "cardNumber": "003",
+    "rarity": "Extra Gold Supreme",
+    "status": "missing"
+  }
+]
