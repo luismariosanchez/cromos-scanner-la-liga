@@ -48,4 +48,33 @@ class StickersDataSource{
     final List<Map<String, Object?>> result = await db.query('stickers', where: 'id = ?', whereArgs: [id]);
     return Sticker.fromJson(result.first);
   }
+
+  Future<void> addToCollection(int id) async{
+    Database db = await SqfliteService().database;
+    final sticker = await db.query('stickers', where: 'id = ?', whereArgs: [id]);
+    if(sticker.first['status'] == 'owned' || sticker.first['status'] == 'duplicated'){
+      await db.update('stickers', {'status': 'duplicated','amount' : ((sticker.first['amount'] as int) + 1), 'updatedAt' : DateTime.now().toIso8601String() }, where: 'id = ?', whereArgs: [id]);
+      return;
+    }
+    await db.update('stickers', {'status': 'owned', 'updatedAt' : DateTime.now().toIso8601String(), 'amount' : 1}, where: 'id = ?', whereArgs: [id]);
+  }
+
+  Future<void> removeFromCollection(int id) async {
+    Database db = await SqfliteService().database;
+    final sticker = await db.query(
+        'stickers', where: 'id = ?', whereArgs: [id]);
+    if ((sticker.first['amount'] as int) <= 1) {
+      if((sticker.first['amount'] as int) < 1){
+        return;
+      }
+      await db.update('stickers', {'status': 'missing', 'updatedAt' : DateTime.now().toIso8601String(), 'amount' : 0}, where: 'id = ?', whereArgs: [id]);
+      return;
+    }
+    if ((sticker.first['amount'] as int) > 2) {
+      await db.update('stickers', {'status': 'duplicated', 'updatedAt' : DateTime.now().toIso8601String(), 'amount' : ((sticker.first['amount'] as int) - 1)}, where: 'id = ?', whereArgs: [id]);
+      return;
+    }
+    await db.update('stickers', {'status': 'owned', 'updatedAt' : DateTime.now().toIso8601String(), 'amount' : ((sticker.first['amount'] as int) - 1)}, where: 'id = ?', whereArgs: [id]);
+
+  }
 }

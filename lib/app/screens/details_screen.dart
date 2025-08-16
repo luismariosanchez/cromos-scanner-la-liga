@@ -13,22 +13,18 @@ class DetailsScreen extends StatefulWidget {
 }
 
 class _DetailsScreenState extends State<DetailsScreen> {
-
   bool isLoading = true;
   bool error = false;
   late Sticker sticker;
 
   Future<void> setSticker() async {
-    try{
+    try {
       sticker = await StickersDataSource().getSticker(widget.id);
-
-    }catch(ae) {
+    } catch (ae) {
       error = true;
     } finally {
       isLoading = false;
-      setState(() {
-
-      });
+      setState(() {});
     }
   }
 
@@ -38,10 +34,9 @@ class _DetailsScreenState extends State<DetailsScreen> {
     super.initState();
   }
 
-
   @override
   Widget build(BuildContext context) {
-    if(isLoading) {
+    if (isLoading) {
       return Scaffold(
         appBar: AppBar(title: Text('Details')),
         body: Center(child: CircularProgressIndicator()),
@@ -118,7 +113,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
                     ),
                   ),
                   const SizedBox(height: 10),
-                  _buildStats(sticker)
+                  _buildStats(sticker),
                 ],
               ),
             ),
@@ -131,10 +126,9 @@ class _DetailsScreenState extends State<DetailsScreen> {
 
   Widget _buildStats(Sticker sticker) {
     Map<String, String> stats = <String, String>{
-      'Club' : sticker.club,
-      'Card Number' : sticker.cardNumber,
-      'Rarity' : sticker.rarity,
-
+      'Club': sticker.club,
+      'Card Number': sticker.cardNumber,
+      'Rarity': sticker.rarity,
     };
     final entries = stats.entries.toList();
 
@@ -146,9 +140,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
             child: Row(
               children: [
                 // Primera columna
-                Expanded(
-                  child: _buildStatItem(entries[i]),
-                ),
+                Expanded(child: _buildStatItem(entries[i])),
                 // Segunda columna (si existe)
                 Expanded(
                   child: i + 1 < entries.length
@@ -168,46 +160,95 @@ class _DetailsScreenState extends State<DetailsScreen> {
       children: [
         Text(
           entry.key,
-          style: const TextStyle(
-            fontSize: 14,
-            color: Color(0x80FFFFFF)
-          ),
+          style: const TextStyle(fontSize: 14, color: Color(0x80FFFFFF)),
         ),
         const SizedBox(height: 2),
         Text(
           entry.value,
-          style: const TextStyle(
-            fontSize: 14,
-            fontWeight: FontWeight.bold,
-          ),
+          style: const TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
         ),
       ],
     );
   }
 
   Widget _buildButtonWidget(int id, StatusSticker statusSticker) {
-    return ElevatedButton(
-      style: ElevatedButton.styleFrom(
-        backgroundColor: Color(0xFFB3007A),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-        padding: EdgeInsets.symmetric(vertical: 12),
-      ),
-      onPressed: () {},
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(Icons.verified_outlined, color: Colors.white,size: 24,),
-          const SizedBox(width: 10),
-          Text(
-            'Add to collection',
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 16,
-              fontWeight: FontWeight.bold,
-            ),
+    if (statusSticker == StatusSticker.missing) {
+      return ElevatedButton(
+        style: ElevatedButton.styleFrom(
+          backgroundColor: Color(0xFFB3007A),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
           ),
-        ],
-      ),
+          padding: EdgeInsets.symmetric(vertical: 12),
+        ),
+        onPressed: () async {
+          showDialog(
+            context: context,
+            builder: (BuildContext context) {
+              return Center(child: CircularProgressIndicator());
+            },
+          );
+          await StickersDataSource().addToCollection(id);
+          sticker = await StickersDataSource().getSticker(id);
+          setState(() {});
+          Navigator.of(context).pop();
+
+        },
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.verified_outlined, color: Colors.white, size: 24),
+            const SizedBox(width: 10),
+            Text(
+              'Add to collection',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
+        ),
+      );
+    }
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        IconButton(onPressed: () async{
+          showDialog(
+            context: context,
+            builder: (BuildContext context) {
+              return Center(child: CircularProgressIndicator());
+            },
+          );
+          await StickersDataSource().removeFromCollection(id);
+          sticker = await StickersDataSource().getSticker(id);
+          setState(() {});
+          Navigator.of(context).pop();
+        }, icon: Icon(Icons.remove,size: 32,)),
+        const SizedBox(width: 15,),
+        Text(
+          '${sticker.amount}',
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 24,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+        const SizedBox(width: 15,),
+        IconButton(onPressed: () async {
+          showDialog(
+            context: context,
+            builder: (BuildContext context) {
+              return Center(child: CircularProgressIndicator());
+            },
+          );
+          await StickersDataSource().addToCollection(id);
+          sticker = await StickersDataSource().getSticker(id);
+          setState(() {});
+          Navigator.of(context).pop();
+        }, icon: Icon(Icons.add,size: 32,))
+      ],
     );
   }
 
@@ -295,11 +336,14 @@ class _DetailsScreenState extends State<DetailsScreen> {
               _buildTitle(sticker),
             ],
           ),
-          Text(sticker.cardNumber,style: TextStyle(
-            color: Colors.white,
-            fontSize: 24,
-            fontWeight: FontWeight.bold,
-          ),)
+          Text(
+            sticker.cardNumber,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 24,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
         ],
       ),
     );

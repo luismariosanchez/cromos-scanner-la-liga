@@ -8,6 +8,8 @@ class Sticker {
   final String cardNumber;
   final String rarity;
 
+  final int amount;
+
   StatusSticker status;
 
   Sticker({
@@ -18,6 +20,7 @@ class Sticker {
     required this.cardNumber,
     required this.rarity,
     this.status = StatusSticker.missing,
+    this.amount = 0,
   });
 
   factory Sticker.fromJson(Map<String, dynamic> json) {
@@ -29,6 +32,7 @@ class Sticker {
       cardNumber: json["cardNumber"],
       rarity: json["rarity"],
       status: StatusSticker.values.firstWhere((element) => element.name == json["status"]),
+      amount: json['amount'],
     );
   }
 
@@ -41,6 +45,7 @@ class Sticker {
       "cardNumber": cardNumber,
       "rarity": rarity,
       "status": status.name,
+      "amount": amount,
     };
   }
 }

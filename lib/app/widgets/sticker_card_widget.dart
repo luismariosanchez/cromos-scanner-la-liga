@@ -27,7 +27,6 @@ class StickerCardWidget extends StatelessWidget {
                     width: 150,
                     fit: BoxFit.cover,
                     errorBuilder: (BuildContext context, Object exception, StackTrace? stackTrace) {
-                      print(sticker.imagePath);
                       return Image.asset('lib/app/assets/stickers_image/sin imagen.jpg',scale: 3.5,width: 150,);
                     }
                   ),
