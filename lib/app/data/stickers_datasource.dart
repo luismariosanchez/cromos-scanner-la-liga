@@ -1,7 +1,5 @@
 import 'package:cromos_scanner_laliga/app/core/services/sqflite_service.dart';
-import 'package:cromos_scanner_laliga/app/entities/count.dart';
 import 'package:cromos_scanner_laliga/app/entities/sticker.dart';
-import 'package:cromos_scanner_laliga/app/enums/count_type.dart';
 import 'package:sqflite/sqflite.dart';
 
 class StickersDataSource{
