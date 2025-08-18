@@ -75,6 +75,5 @@ class StickersDataSource{
       return;
     }
     await db.update('stickers', {'status': 'owned', 'updatedAt' : DateTime.now().toIso8601String(), 'amount' : ((sticker.first['amount'] as int) - 1)}, where: 'id = ?', whereArgs: [id]);
-
   }
 }
