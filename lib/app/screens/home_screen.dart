@@ -80,7 +80,9 @@ class _HomeScreenState extends State<HomeScreen> {
                 title: 'Scan Stickers',
                 description: 'Use camera to scan new stickers',
                 icon: Icons.flip,
-                onTap: (){},
+                onTap: (){
+                  Navigator.of(context).pushNamed('/scanner');
+                },
               ),
               ActionCardWidget(
                 title: 'My Collection',
@@ -102,12 +104,14 @@ class _HomeScreenState extends State<HomeScreen> {
             ],
           ),
           const SizedBox(height: 20),
+          /*
           Text(
             'Recent Activity',
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 20),
           _buildLastStickerAdded()
+           */
         ],
       ),
     );

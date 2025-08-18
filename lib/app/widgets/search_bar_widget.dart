@@ -17,10 +17,6 @@ class _SearchBarWidgetState extends State<SearchBarWidget> {
   Future<List<Sticker>> _getSearchResults(String query) {
     if (query.isEmpty) return Future.value([]);
 
-    // Si ya existe en cache, devolverlo
-    if (_searchCache.containsKey(query)) {
-      return _searchCache[query]!;
-    }
 
     // Crear nuevo future con debounce incorporado
     final completer = Completer<List<Sticker>>();
