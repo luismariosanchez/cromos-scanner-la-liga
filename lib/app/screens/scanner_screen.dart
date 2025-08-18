@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:ui' as ui;
 
 import 'package:camera/camera.dart';
+import 'package:cromos_scanner_laliga/app/core/services/scanner_service.dart';
 import 'package:cromos_scanner_laliga/app/entities/sticker.dart';
 import 'package:cromos_scanner_laliga/app/enums/status_sticker.dart';
 import 'package:cromos_scanner_laliga/app/widgets/sticker_card_widget.dart';
@@ -214,7 +215,7 @@ class _ScannerScreenState extends State<ScannerScreen> {
     }
   }
 
-  void _analyzeRectangleText(String text, int rectangleIndex) {
+  void _analyzeRectangleText(String text, int rectangleIndex) async {
     // Ejemplo de análisis del texto de cada rectángulo
     // Puedes buscar patrones específicos aquí
 
@@ -230,8 +231,18 @@ class _ScannerScreenState extends State<ScannerScreen> {
 
     // Aquí puedes crear nuevos Sticker objects basados en lo que encuentres
     // y agregarlos a stickersScanned
+    List<Sticker>? stickers = await ScannerService().getStickerScanned(names.map((m) => m.group(0)).toList());
+    if(stickersScanned == null) {
+      stickersScanned = stickers;
+    }else {
+      if (stickers != null) {
+        stickersScanned?.addAll(stickers.where((e) => !stickersScanned!.contains(e)));
+      }
+    }
+    print('STICKER ENCONTRADOS .${stickersScanned?.length}');
+    setState(() {
 
-
+    });
   }
 
   @override
